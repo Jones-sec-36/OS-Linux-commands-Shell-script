@@ -57,6 +57,7 @@ cmp file1 file2
  
 comm file1 file2
  ## OUTPUT
+ ![commfile1file2](./img/comm.png)
 
  
 diff file1 file2
