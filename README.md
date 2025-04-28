@@ -1091,6 +1091,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+![data](./img/data.png)
  
 cat > palindrome.sh
 ```bash
@@ -1118,7 +1119,7 @@ else
 fi
 ```
 ## OUTPUT 
-
+![palindrome](./img/palindrome.png)
 
 # RESULT:
 The Commands are executed successfully.
